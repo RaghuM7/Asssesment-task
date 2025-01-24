@@ -13,4 +13,4 @@ This project provides a Python script to convert Markdown meeting notes into a w
 
 ## ⚙️ Setup Instructions  
 
-### you can directly run the code in the google colab. The only thing is you need to login via gmail with permissions because google doc asks the permission to create the google doc with in your drive and it prints the realted output.
+you can directly run the code in the google colab. The only thing is you need to login via gmail with permissions because google doc asks the permission to create the google doc with in your drive and it prints the related output.
